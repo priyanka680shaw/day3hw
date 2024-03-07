@@ -1,0 +1,33 @@
+.outerNavbarContainer{
+    width: 100%;
+    background-color: aqua;
+}
+
+.innerNavbarContainer{
+    width: 100%;
+    background-color: rgb(174, 176, 175);
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+ul>li{
+    border: 2px solid red;
+    list-style: none;
+}
+
+ul>li>a{
+    text-decoration: none;
+   padding: 20px 50px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+   
+}
+
+#home{
+    background-color: brown;
+}
