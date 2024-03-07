@@ -3,6 +3,8 @@ function Navbar(){
     return(
         <>
            <header>
+           <h1 style={{color : "#991F48"}}>Family Wellness</h1>
+           <span>Message Therapy</span>
                  <nav>
                     <div className='outerNavbarContainer'>
                         <div className='innerNavbarContainer'>

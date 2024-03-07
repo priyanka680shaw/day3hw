@@ -1,8 +1,7 @@
 .bannerContainner{
     width: 100%;
-    background-color: aqua;
-    height: 100vh;
-
+   
+  
 }
 
 .bannerImage{
@@ -12,12 +11,13 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    margin-bottom: 20px;
 
 }
 
 .bannerCard{
     width: 100%;
-    background-color: rgb(69, 72, 72);
+    background-color: #991F48;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,10 +33,3 @@
 
 /* BUTTON */
 
-.btn{
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-}
